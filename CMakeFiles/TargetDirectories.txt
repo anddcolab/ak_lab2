@@ -1,0 +1,4 @@
+/home/malko/all_things/univer/lab2/CMakeFiles/rebuild_cache.dir
+/home/malko/all_things/univer/lab2/CMakeFiles/edit_cache.dir
+/home/malko/all_things/univer/lab2/CMakeFiles/MyLibrary.dir
+/home/malko/all_things/univer/lab2/CMakeFiles/Lab2.dir
